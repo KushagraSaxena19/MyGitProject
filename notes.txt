@@ -1,2 +1,6 @@
 This is my first Git respository test file
+<<<<<<< HEAD
 This line was added from the main branch.
+=======
+This line was added from the feature branch.
+>>>>>>> feature
